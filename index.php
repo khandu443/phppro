@@ -7,6 +7,5 @@
 <?php
 echo "Hello World!,this is trigered from githhub";
 ?>  
-
 </body>
 </html>
